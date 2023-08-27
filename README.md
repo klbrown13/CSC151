@@ -2,6 +2,7 @@
 
 Using the grading weights table found in Course Resources or the syllabus, write a program that asks for the % averages for labs, midterm, final, the project, etc, and calculates the final grade. 
 For example, assuming the grading weights are as follows
+
 Grade Weights Activity 	Weighting  %
 Labs 	20
 Reading Quizzes 	10
