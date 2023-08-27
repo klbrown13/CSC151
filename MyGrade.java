@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /** This program calculates the final grade for a class
- * @author Kurt Brown
+ * @author KBrown
  */
 
 public class MyGrade {
