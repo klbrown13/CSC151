@@ -1,3 +1,19 @@
-# CSC151
-Lab Assignments for the CSC 151 class
-CSC 151 - Java Programming Fall 2023
+Design a class named Person and its two subclasses named Student and Employee.
+Make Faculty and Staff subclasses of Employee. A person has a name, address, phone number, and e-mail address.
+A student has a class status (freshman, sophomore, junior, or senior). Define the status as a constant.
+An employee has an office, salary, and date hired.
+A faculty member has office hours and a rank. A staff member has a title. Override the toString method in each class to display the class name and the person’s name.
+
+In the Person class use this to define the dateHired instance variable
+     private java.util.Calendar dateHired;
+
+A tester is included that must output :
+
+Person: Peter
+Student: Susan
+Employee: Eva
+Faculty: Frank
+Staff: Shane
+
+
+
